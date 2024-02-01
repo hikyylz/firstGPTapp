@@ -1,2 +1,2 @@
 # firstGPTapp
- ı built an ai model asistant powered by openai api
+ I built an ai model asistant powered by openai api
